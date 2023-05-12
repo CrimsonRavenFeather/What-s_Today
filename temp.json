@@ -1,0 +1,240 @@
+{
+    "status": "ok",
+    "totalResults": 19,
+    "articles": [
+      {
+        "source": {
+          "id": "al-jazeera-english",
+          "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Multiple explosions rock Russian-annexed Crimea: Reports",
+        "description": "Pro-Moscow official says Ukraine launched more than 10 drones on Crimean peninsula, including three on Sevastopol port.",
+        "url": "http://www.aljazeera.com/news/2023/5/7/multiple-explosions-rock-russian-annexed-crimea",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/05/2023-05-06T144322Z_216380023_RC2XS0A94HLC_RTRMADP_3_UKRAINE-CRISIS-EAST-1683432421.jpg?resize=1920%2C1440",
+        "publishedAt": "2023-05-07T04:53:18Z",
+        "content": "Multiple blasts have rocked Russian-annexed Crimea, according to reports, with a pro-Moscow official accusing Kyiv of staging more than 10 drone attacks on the peninsula.\r\nThe reported attacks on Sun… [+4348 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": null,
+        "title": "Gunman kills 9 in rampage at Texas outlet mall in nation's 200th mass shooting of 2023",
+        "description": "Multiple people were shot at an outlet mall in the Dallas suburb of Allen, Texas, on Saturday, sending hundreds of shoppers fleeing in panic.",
+        "url": "https://www.usatoday.com/story/news/nation/2023/05/06/shooting-dallas-outlet-mall/70191696007/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2023/05/07/USAT/4ae27b86-5346-457e-92a8-aece123faf4b-AP_CORRECTION_Mall_Shooting_Texas.jpg?auto=webp&crop=3599,2025,x0,y227&format=pjpg&width=1200",
+        "publishedAt": "2023-05-07T02:29:46+00:00",
+        "content": "A gunman fired into a crowd at a suburban Dallas outlet mall Saturday, killing at least nine people as horrific images of severely wounded shoppers hit social media and brought the number of mass sho… [+4480 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Multiple people shot at mall near Dallas; suspect dead",
+        "description": "Multiple people were shot by a gunman who opened fire Saturday afternoon at Allen Premium Outlets in Allen, Texas, a suburb in the Dallas-Fort Worth metropolitan area, authorities said. The suspect was shot and killed by an officer.",
+        "url": "https://www.cbsnews.com/video/multiple-people-shot-at-mall-near-dallas-suspect-dead/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/07/83610de0-d7ae-49dd-91c8-8100bd6a3242/thumbnail/1200x630/0d5899987f7702c4b85257b3dfb924aa/1683418879072-1947162-640x360.jpg",
+        "publishedAt": "2023-05-07T01:57:35+00:00",
+        "content": "Watch CBS News\r\nCopyright ©2023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+      },
+      {
+        "source": {
+          "id": "breitbart-news",
+          "name": "Breitbart News"
+        },
+        "author": "Breitbart News",
+        "title": "Mage Wins 149th Kentucky Derby to Cap Tumultuous Week - Breitbart",
+        "description": "Mage roared from off the pace to win the 149th Kentucky Derby on Saturday, launching US racing's Triple Crown campaign as two more horse deaths on Saturday cast a pall on proceedings at Churchill Downs.",
+        "url": "http://www.breitbart.com/news/mage-wins-149th-kentucky-derby-to-cap-tumultuous-week/",
+        "urlToImage": "https://media.breitbart.com/media/2023/05/wi/afp/jockey-javier-castellano-celebrates-atop-of-mage-winning-149th-running-of-kentucky-derby-at-churchill-640x335.jpg",
+        "publishedAt": "2023-05-07T01:52:12.0366412Z",
+        "content": "Mage roared from off the pace to win the 149th Kentucky Derby on Saturday, launching US racing’s Triple Crown campaign as two more horse deaths on Saturday cast a pall on proceedings at Churchill Dow… [+3641 chars]"
+      },
+      {
+        "source": {
+          "id": "cbc-news",
+          "name": "CBC News"
+        },
+        "author": "CBC News",
+        "title": "Multiple people shot at Texas mall; officials say attacker dead | CBC News",
+        "description": "Multiple people were shot at an outlet mall in the Dallas suburb of Allen, Texas, on Saturday, sending hundreds of shoppers fleeing in panic in the latest gun violence to strike the United States.",
+        "url": "http://www.cbc.ca/news/world/texas-mall-shooting-1.6835094",
+        "urlToImage": "https://i.cbc.ca/1.6835097.1683418009!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/mall-shooting-texas.jpg",
+        "publishedAt": "2023-05-07T00:37:18.9288873Z",
+        "content": "WARNING: This story contains graphic details.\r\nMultiple people were shot at an outlet mall in the Dallas suburb of Allen, Texas, on Saturday, sending hundreds of shoppers fleeing in panic in the late… [+2568 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news-au",
+          "name": "Google News (Australia)"
+        },
+        "author": "9News",
+        "title": "Multiple people shot at at Texas shopping centre - 9News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy45bmV3cy5jb20uYXUvd29ybGQvdGV4YXMtc2hvb3RpbmctcG9saWNlLXJlc3BvbmQtdG8tYWN0aXZlLXNob290ZXItaW5jaWRlbnQtYXQtb3V0bGV0LW1hbGwtbmVhci1kYWxsYXMvNjZiZjc4MTEtYWRjMC00ZDk4LWFmMWYtY2M4MDJhYjMwNGI20gFFaHR0cHM6Ly9hbXAuOW5ld3MuY29tLmF1L2FydGljbGUvNjZiZjc4MTEtYWRjMC00ZDk4LWFmMWYtY2M4MDJhYjMwNGI2?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-05-06T23:54:16+00:00",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "breitbart-news",
+          "name": "Breitbart News"
+        },
+        "author": "Bob Price",
+        "title": "TEXAS SHERIFF: Multiple Victims, Including Children, in Mall Shooting, Suspect Dead",
+        "description": "A shooter at a mall in North Texas left behind multiple victims, including children, according to the Collin County sheriff.",
+        "url": "http://www.breitbart.com/border/2023/05/06/texas-sheriff-multiple-victims-including-children-in-mall-shooting-suspect-dead/",
+        "urlToImage": "https://media.breitbart.com/media/2023/05/AP23126815045529-640x335.jpg",
+        "publishedAt": "2023-05-06T23:37:13Z",
+        "content": "A shooter at a mall in North Texas left behind multiple victims, including children, according to the Collin County sheriff. The sheriff also confirmed the shooter is dead at the scene.\r\nAt about 3:3… [+1812 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Associated Press, Lloyd Lee",
+        "title": "Police respond to shooting at mall near Dallas, Texas",
+        "description": "Authorities told WFAA-TV that there were multiple victims, including children, and the suspected shooter is dead.",
+        "url": "https://www.insider.com/police-respond-shooting-allen-premium-outets-mall-near-dallas-texas-2023-5",
+        "urlToImage": "https://i.insider.com/6456df706a3ee8001909248d?width=1200&format=jpeg",
+        "publishedAt": "2023-05-06T23:21:23Z",
+        "content": "Law enforcement responded to a shooting at an outlet mall near the Dallas area on Saturday.\r\nCalls about shots being fired came in about 3:40 p.m. from the Allen Premium Outlets in Allen, Texas, a su… [+913 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": null,
+        "title": "2023 Kentucky Derby: Mage wins first leg of Triple Crown",
+        "description": "Mage won the 149th running of the Kentucky Derby at Churchill Downs in Louisville, Kentucky on Saturday.",
+        "url": "http://www.foxsports.com/stories/other/2023-kentucky-derby-winner",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/05/1408/814/derby-wide-050623.jpg?ve=1&tl=1",
+        "publishedAt": "2023-05-06T23:04:33Z",
+        "content": "Mage has won the 2023 Kentucky Derby at Churchill Downs in Louisville, Kentucky on Saturday.\r\nMage had only one victory in three previous races before covering 1 1/4 miles in 2:01.57 under jockey Jav… [+2308 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Andrea Vacchiano",
+        "title": "Texas authorities respond to reported outlet mall shooting",
+        "description": "Allen, Texas authorities are responding to calls about an alleged shooting at Allen Premium Outlets on Saturday afternoon. Dispatch says it may have involved multiple people.",
+        "url": "https://www.foxnews.com/us/texas-authorities-respond-reported-outlet-mall-shooting",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/05/outlet1.jpg",
+        "publishedAt": "2023-05-06T21:38:24Z",
+        "content": "Texas police responded to reports of a shooting at Allen Premium Outlets on Saturday afternoon.\r\nDispatch told FOX 4 Dallas that police were responding to calls about a shooting that reportedly invol… [+791 chars]"
+      },
+      {
+        "source": {
+          "id": "talksport",
+          "name": "TalkSport"
+        },
+        "author": "Jake Lambourne",
+        "title": "Fans joke Erling Haaland has match to forget for Manchester City as he misses multiple sitters vs Leeds...",
+        "description": "",
+        "url": "https://talksport.com/football/1416887/erling-haaland-manchester-city-leeds/",
+        "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/05/erling-haaland-manchester-city-reacts-815368834.jpg?strip=all&quality=100&w=1810&h=1080&crop=1",
+        "publishedAt": "2023-05-06T17:01:56Z",
+        "content": "Erling Haaland proved he is human after all as he missed a number of chances in Manchester City’s 2-1 win against Leeds.\r\nThe result has seen the Citizens extend their lead over Arsenal at the top of… [+3098 chars]"
+      },
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Peter Charalambous",
+        "title": "Multiple victims in stabbing near University of Iowa, campus police say",
+        "description": "The incident occurred early Saturday near campus, officials said.",
+        "url": "https://abcnews.go.com/US/multiple-victims-stabbing-university-iowa-campus-police/story?id=99127426",
+        "urlToImage": "https://s.abcnews.com/images/US/police-lights-rf-gty-200410_hpMain_16x9_992.jpg",
+        "publishedAt": "2023-05-06T08:13:00Z",
+        "content": "Police are searching for a suspect after a stabbing incident with multiple victims near the University of Iowa, campus and police officials said early Saturday.\r\nThe condition of the victims is unkno… [+1078 chars]"
+      },
+      {
+        "source": {
+          "id": "polygon",
+          "name": "Polygon"
+        },
+        "author": "Michael McWhertor",
+        "title": "When does Hogwarts Legacy come out on Nintendo Switch?",
+        "description": "Harry Potter game Hogwarts Legacy has multiple release dates on PS5, Xbox Series X, and PC. The Nintendo Switch, PS4, and Xbox One versions of Hogwarts Legacy are coming out later.",
+        "url": "https://www.polygon.com/23552621/hogwarts-legacy-release-date-play-early-access-versions-deluxe-collectors",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/DzjCaMAqj7emXfe0C14yWToYW3A=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24358513/screen_07.jpg",
+        "publishedAt": "2023-01-13T21:25:51Z",
+        "content": "Hogwarts Legacy, a new adventure set in the past of the Wizarding World of Harry Potter, will be released on all major game platforms this year, including Nintendo Switch, PlayStation 4, PlayStation … [+1564 chars]"
+      },
+      {
+        "source": {
+          "id": "the-globe-and-mail",
+          "name": "The Globe And Mail"
+        },
+        "author": "Molly Hayes",
+        "title": "OPP officers provide testimony at inquest into 2015 triple murders",
+        "description": "Four OPP officers addressed difficulties they had while discovering three deaths in 2015 connected by intimate partner violence",
+        "url": "https://www.theglobeandmail.com/canada/article-opp-provide-testimony-at-inquest-into-2015-triple-murders/",
+        "urlToImage": "https://www.theglobeandmail.com/resizer/B_0AHIFyolFcOl24Dt2Q82GJ_f4=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/BPRCBGA52VCDHGHL2GMDLH2QSA.JPG",
+        "publishedAt": "2022-06-16T01:18:17Z",
+        "content": "A real estate billboard of slain Anastasia Kuzyk along Highway 60 in Wilno, Ont., in 2015.Dave Chan/The Globe and Mail\r\nAs soon as she heard Anastasia Kuzyks address read out over her police radio on… [+4544 chars]"
+      },
+      {
+        "source": {
+          "id": "the-hill",
+          "name": "The Hill"
+        },
+        "author": "Jordain Carney, Peter Sullivan",
+        "title": "Trump-era fight snags COVID deal",
+        "description": "Congress appears poised to punt a $10 billion deal on coronavirus relief until after a looming two-week break, as multiple stumbling blocks are complicating quick passage of the agreement.   A bipartisan group of senators announced this week that they had cli…",
+        "url": "https://thehill.com/news/3260056-trump-era-fight-snags-covid-deal/",
+        "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2022/04/thunejohn_040522arl2_lead.jpg?w=1280",
+        "publishedAt": "2022-04-06T10:00:00Z",
+        "content": "Congress appears poised to punt a $10 billion deal on coronavirus relief until after a looming two-week break, as multiple stumbling blocks are complicating quick passage of the agreement.  \r\nA bipar… [+5716 chars]"
+      },
+      {
+        "source": {
+          "id": "nfl-news",
+          "name": "NFL News"
+        },
+        "author": null,
+        "title": "NFL injury updates, latest league news from Thursday, Jan. 20",
+        "description": "The Tampa Bay Buccaneers saw multiple offensive starters participate in practice Thursday, but are still waiting on their right tackle to get back on the field. Also, the latest NFL roster and injury news from Thursday.",
+        "url": "https://www.nfl.com/news/nfl-injury-updates-latest-league-news-from-thursday-jan-20",
+        "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/nu2ombmssrq178clieou",
+        "publishedAt": "2022-01-20T19:22:41.693224Z",
+        "content": "The Tampa Bay Buccaneers saw multiple offensive starters participate in practice Thursday, but are still waiting on their right tackle to get back on the field.\r\nBuccaneers center Ryan Jensen and run… [+496 chars]"
+      },
+      {
+        "source": {
+          "id": "the-hindu",
+          "name": "The Hindu"
+        },
+        "author": "The Hindu",
+        "title": "Limits of cooperation: On reforms in cooperative sector",
+        "description": "Reforms in cooperative sector should not be at the cost of federal principles",
+        "url": "https://www.thehindu.com/opinion/editorial/limits-of-cooperation-the-hindu-editorial-on-reforms-in-cooperative-sector/article35478339.ece",
+        "urlToImage": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+        "publishedAt": "2021-07-22T18:32:00Z",
+        "content": "The cooperative movement certainly needs reform and revitalisation. Beset by political interference, many cooperative societies do not hold elections regularly, while some are superseded frequently. … [+2692 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "Times Of India",
+        "title": "PBKS vs MI Live Score, IPL 2021: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways",
+        "description": "IPL Live Score: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways. Stay with TOI to get IPL live score, playing 11, scorecard, highlights and ball by ball score updates of the 17th IPL match between Punjab Kings and Mumbai Indians.",
+        "url": "http://timesofindia.indiatimes.com/sports/cricket/ipl/live-blog/punjab-kings-vs-mumbai-indians-pbks-vs-mi-live-score-ipl-2021-17th-match-chennai/liveblog/82214950.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-82214950,width-1070,height-580,imgsize-157009,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2021-04-23T05:44:49Z",
+        "content": "Ravi Bishnoi return on the cards?\r\nDeepak Hooda showed what he is capable of, but greater consistency would be needed from him if the team has to prosper. They bet on Australian pace imports Jhye Ric… [+3131 chars]"
+      }
+    ]
+  }

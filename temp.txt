@@ -1,0 +1,29 @@
+export default class App extends Component {
+  render() {
+    return (
+      <Router>
+        <div>
+          <Navbar />
+          <Routes>
+            <Route path='science' element={<News pagesize={5} country="in" category="science" />}></Route>
+            <Route path='genral' element={<News pagesize={5} country="in" category="genral" />}></Route>
+            <Route path='health' element={<News pagesize={5} country="in" category="health" />}></Route>
+            <Route path='entertainment' element={<News pagesize={5} country="in" category="science" />}></Route>
+            <Route path='sports' element={<News pagesize={5} country="in" category="sports" />}></Route>
+            <Route path='business' element={<News pagesize={5} country="in" category="business" />}></Route>
+            <Route path='technology' element={<News pagesize={5} country="in" category="technology" />}></Route> 
+          </Routes>
+        </div>
+      </Router>
+    )
+  }
+}
+
+
+business
+entertainment
+general
+health
+science
+sports
+technology
